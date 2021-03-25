@@ -1,9 +1,13 @@
 {
 	"name": "vstodolist",
 	"displayName": "VSTodoList",
+	"version": "0.0.1",
 	"description": "Extension for displaying my todolist app in VSCode",
 	"publisher": "Tim0-12432",
-	"version": "0.0.1",
+	"homepage": "https://tim0-12432.github.io/todo-list/",
+	"repository": {
+		"url": "https://github.com/tim0-12432/vstodolist"
+	},
 	"engines": {
 		"vscode": "^1.46.0"
 	},
