@@ -1,6 +1,8 @@
-<img src="https://github.com/tim0-12432/todo-list/blob/main/public/apple-touch-icon.png?raw=true" style="height: 45px; width: 45px; float: right; border-radius: 50%; margin: 5px">
 
-# VSCode Todolist extension
+# VSCode Todolist extension <img src="https://github.com/tim0-12432/todo-list/blob/main/public/apple-touch-icon.png?raw=true" height="45px" width="45px" style="float: right; border-radius: 50%; margin: 5px" />
+
+![GitHub last commit](https://img.shields.io/github/last-commit/tim0-12432/vstodolist?logo=github&color=green)
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=webpage&up_color=green&up_message=online&url=https%3A%2F%2Ftim0-12432.github.io%2Ftodo-list)
 
 This is a extension for Visual Studio Code to use [my todo app](https://github.com/tim0-12432/todo-list) inside the IDE.
 
